@@ -30,7 +30,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Linh Nguyen
-* Ravi Nareppa
-* Ajay Anand
-* PJ Fernandez
+* Linh Nguyen - Panasonic
+* Ravi Nareppa - Panasonic
+* Dr. Ajay Anand - Goergen Institute of Data Science
+* PJ Fernandez - Simon School of Business/GIDS
