@@ -1,8 +1,4 @@
-# Capstone_DSC383
-University of Rochester
-Georgen Institude of Data Science
 
-###
 
 # Capstone Project - Panasonic Kitting
 
