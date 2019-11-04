@@ -1,7 +1,7 @@
 # Capstone_DSC383
 University of Rochester
 Georgen Institude of Data Science
-Team Members: Jong Hwi Park, Kefei Wu, Yingping Lu, Miao Zhou
+
 ###
 
 # Capstone Project - Panasonic Kitting
